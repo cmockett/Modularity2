@@ -176,3 +176,30 @@ body {
 	bottom:64px;
 	right:40px;
 }
+.tabdivs {
+	border:1px solid blue;
+	padding:4px 8px 4px 8px;
+	border-radius:5px 5px 0px 0px;
+}
+.tabdivs2 {
+	border:1px solid blue;
+	padding:4px 8px 4px 8px;
+	border-radius:5px 5px 0px 0px;
+	border-bottom:none;
+	position:relative;
+	top:1px;
+}
+.ibtabs li{
+	display:inline-block;
+	padding:0px 5px 0px 5px;
+	position:relative;
+	right:35px;
+}
+.ibtabs li a{
+	text-decoration:none;
+}
+.tabbody {
+	border:1px solid blue;
+	padding:10px;
+	border-radius:5px;
+}
