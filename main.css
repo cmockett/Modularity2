@@ -159,3 +159,20 @@ body {
 	color:white;
 	text-decoration:none;
 }
+.commentbody{
+	position:relative;
+	left:85px;
+	bottom:85px;
+}
+.commenttimestamp{
+	font-size:70%;
+	color:#999999;
+}
+.commentspacing{
+	margin-bottom:-40px;
+}
+.replytext{
+	position:relative;
+	bottom:64px;
+	right:40px;
+}
