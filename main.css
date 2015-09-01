@@ -1,0 +1,161 @@
+body {
+	margin-left:8vw;
+	margin-right:8vw;
+}
+.img6 img{
+	padding:0px 18px 0px 18px;
+}
+.img6a img{
+	padding:0px 18px 0px 18px;
+}
+.img6a > :first-child{
+	float:left;
+}
+.ib{
+	display:inline-block;
+	
+}
+.ib2{
+	vertical-align:top;
+	display:inline-block;
+}
+.vertpad{
+	padding: 150px 0px 150px 0px;
+}
+.ib li{
+	display:inline-block;
+	float:left;
+}
+.button1{
+	width:200px;
+	height:70px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:70px;
+	vertical-align:middle;
+}
+.button1 a {
+	color:white;
+	text-decoration:none;
+	font-size:150%;
+}
+.ibbutton div{
+	display:inline-block;
+}
+.button2 {
+	width:170px;
+	height:40px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:40px;
+	vertical-align:middle;
+}
+.button2 a {
+	color:white;
+	text-decoration:none;
+	font-size:100%;
+}
+.button3 {
+	width:35px;
+	height:25px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:25px;
+	vertical-align:middle;
+}
+.button3 a {
+	color:white;
+	text-decoration:none;
+	font-size:85%;
+}
+
+.button4 {
+	width:150px;
+	height:40px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:40px;
+	vertical-align:middle;
+}
+.button4 a {
+	color:white;
+	text-decoration:none;
+	font-size:100%;
+}
+.button5 {
+	width:150px;
+	height:40px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:40px;
+	vertical-align:middle;
+}
+.button5 input {
+	color:white;
+	text-decoration:none;
+	font-size:100%;
+	background-color:#FF6699;
+	border-color:#FF6699;
+	border-width:0px;
+}
+.button6 {
+	width:150px;
+	height:40px;
+	background-color:#FF6699;
+	border-radius:5px;
+	text-align:center;
+	line-height:40px;
+	vertical-align:middle;
+}
+.button6 input {
+	color:white;
+	text-decoration:none;
+	font-size:100%;
+	background-color:#FF6699;
+	border-color:#FF6699;
+	border-width:0px;
+}
+.navbutton {
+	height: 40px;
+	width:650px;
+	background-color:#FF6699;
+	border-radius:5px;
+	line-height:40px;
+	vertical-align:middle;
+}
+.navbutton ul li{
+	display:inline-block;
+	padding:0px 35px 0px 35px;
+	line-height:initial;
+}
+.navbutton ul li a{
+	color:white;
+	text-decoration:none;
+}
+.navbutton ul li:first-child{
+	padding-left:15px;
+}
+.navbutton ul li a:hover{
+	color:green;
+}
+.searchnav ol li{
+	display:inline-block;
+	padding:0px 20px 0px 20px;
+}
+.searchnav{
+	height:40px;
+	width:630px;
+	background-color:red;
+	line-height:40px;
+	border-radius:10px;
+	border:5px solid green;
+}
+.searchnav ol li a:hover{
+	color:white;
+	text-decoration:none;
+}
