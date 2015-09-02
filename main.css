@@ -193,6 +193,7 @@
 	border:1px solid blue;
 	padding:4px 8px 4px 8px;
 	border-radius:5px 5px 0px 0px;
+	color:blue;
 }
 .tabdivs2 {
 	border:1px solid blue;
@@ -200,8 +201,16 @@
 	border-radius:5px 5px 0px 0px;
 	border-bottom:none;
 	z-index:2;
+	color:blue;
 	/*position:relative;
 	top:1px;*/
+}
+.tabdivs2:hover{
+	background-color:white;
+	position:relative;
+	top:1px;
+	color:red;
+
 }
 .ibtabs li{
 	display:inline-block;
